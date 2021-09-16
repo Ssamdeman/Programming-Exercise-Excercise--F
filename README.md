@@ -1,5 +1,5 @@
 # Programming-Exercise-Excercise
-This is a lit of websites where everyone can solve problems and improve their skills. Starting Beginners to Professionals. This websites can be use as daily exercises.
+This is a lit of websites where everyone can solve problems and improve their skills. Starting Beginners to Professionals. This websites can be use as daily exercises. 
 
 
 * https://www.hackerrank.com/dashboard
@@ -34,3 +34,8 @@ This is a lit of websites where everyone can solve problems and improve their sk
 
 How to Edit using MarkDown:
 https://guides.github.com/features/mastering-markdown/
+
+
+
+# My Goal is to join and win 
+https://icpc.global/
